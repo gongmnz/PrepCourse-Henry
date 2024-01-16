@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso preparatorio Henry
+Prueba de repositorio de GitHub.
